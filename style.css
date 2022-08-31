@@ -1,0 +1,64 @@
+body
+{
+    background-color: #5c87b3;
+}
+#div
+{
+    border: 2px solid white;
+    border-radius: 8px;
+    width: 50%;
+    padding: 50px;
+    margin-left: 10%;
+    margin-top: 10%;
+    background-color: white;
+}
+#name, #area
+{
+    width: 50%;
+    border: 1px solid lightgrey;
+}
+#area
+{
+    height: 250px;
+}
+.p1
+{
+    position: relative;
+}
+#p2
+{
+    left: 55%;
+    top: -270px;
+}
+#button1
+{
+    margin-left: 4%;
+}
+.btn
+{
+    background-color: lightgrey;
+    border-radius: 6px;
+}
+#sortbyvalue
+{
+    margin-bottom: 12px;
+}
+#delete
+{
+    margin-bottom: 12px;
+}
+#header1
+{
+    font-family: monospace;
+    font-size: large;
+    font-weight: bold;
+}
+label
+{
+    color: grey;
+}
+.error
+{
+    font-size: 16px;
+    color: red;
+}
